@@ -1,0 +1,6 @@
+# Arquivos de compilação
+bin/
+obj/
+out/
+
+src/Data/Versions/*.sqlite*
